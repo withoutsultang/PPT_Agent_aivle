@@ -40,13 +40,15 @@ Step1_AI_강사_Agent_v1.0/
 └── data/
     ├── sample1.pptx
     └── sample1.png
-
+```
 
 
 ## ⚙️ 실행 환경
 ```bash
 !apt-get -y install ffmpeg libreoffice poppler-utils
 pip install python-pptx pillow langgraph openai gradio
-
+```
 ## ▶️ 실행 방법
+```bash
 python app/main_gradio.py
+```
