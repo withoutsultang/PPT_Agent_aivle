@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+api_key.txt
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+outputs/
+gradio_output/
+graido_output/
+gradio1_output/
+webio/
+.DS_Store
