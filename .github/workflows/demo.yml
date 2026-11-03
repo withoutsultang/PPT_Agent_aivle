@@ -1,1 +1,65 @@
-bmFtZTogR2VuZXJhdGUgbGVjdHVyZSBkZW1vCm9uOgogIHdvcmtmbG93X2Rpc3BhdGNoOgpwZXJtaXNzaW9uczoKICBjb250ZW50czogcmVhZApqb2JzOgogIGdlbmVyYXRlOgogICAgcnVucy1vbjogdWJ1bnR1LWxhdGVzdAogICAgdGltZW91dC1taW51dGVzOiAyMAogICAgc3RlcHM6CiAgICAgIC0gdXNlczogYWN0aW9ucy9jaGVja291dEB2NAogICAgICAtIHVzZXM6IGFjdGlvbnMvc2V0dXAtcHl0aG9uQHY1CiAgICAgICAgd2l0aDoKICAgICAgICAgIHB5dGhvbi12ZXJzaW9uOiAnMy4xMicKICAgICAgICAgIGNhY2hlOiBwaXAKICAgICAgLSBydW46IHN1ZG8gYXB0LWdldCB1cGRhdGUgJiYgc3VkbyBhcHQtZ2V0IGluc3RhbGwgLXkgZmZtcGVnIGxpYnJlb2ZmaWNlLWltcHJlc3MgcG9wcGxlci11dGlscyBmb250cy1ub3RvLWNqawogICAgICAtIHJ1bjogcHl0aG9uIC1tIHBpcCBpbnN0YWxsIC1yIHJlcXVpcmVtZW50cy50eHQKICAgICAgLSBuYW1lOiBHZW5lcmF0ZSBhbmQgdmVyaWZ5IHRoZSBwdWJsaWMgc2FtcGxlCiAgICAgICAgZW52OgogICAgICAgICAgT1BFTkFJX0FQSV9LRVk6ICR7eyBzZWNyZXRzLk9QRU5BSV9BUElfS0VZIH19CiAgICAgICAgcnVuOiB8CiAgICAgICAgICBweXRob24gLSA8PCdQWScKICAgICAgICAgIGltcG9ydCBqc29uCiAgICAgICAgICBpbXBvcnQgc2h1dGlsCiAgICAgICAgICBpbXBvcnQgc3VicHJvY2VzcwogICAgICAgICAgZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCiAgICAgICAgICBmcm9tIHBpcGVsaW5lIGltcG9ydCBydW5fcGlwZWxpbmUKCiAgICAgICAgICByZXN1bHQgPSBydW5fcGlwZWxpbmUoImRvY3MvZGVtby9oZWFsdGgtY2hlY2sucHB0eCIsIHRhcmdldF9kdXJhdGlvbl9zZWM9MjUpCiAgICAgICAgICBpZiByZXN1bHRbInRvdGFsX3NsaWRlcyJdICE9IDMgb3IgbGVuKHJlc3VsdFsidmlkZW9fcGF0aHMiXSkgIT0gMzoKICAgICAgICAgICAgICByYWlzZSBSdW50aW1lRXJyb3IoIkV4cGVjdGVkIHRocmVlIHJlbmRlcmVkIHNsaWRlcyIpCiAgICAgICAgICBpZiBsZW4ocmVzdWx0LmdldCgicXVpel9zZXQiLCBbXSkpICE9IDY6CiAgICAgICAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCJFeHBlY3RlZCBzaXggdmFsaWRhdGVkIHF1aXogcXVlc3Rpb25zIikKCiAgICAgICAgICBvdXRwdXQgPSBQYXRoKCJkZW1vLWFydGlmYWN0IikKICAgICAgICAgIG91dHB1dC5ta2RpcigpCiAgICAgICAgICBzaHV0aWwuY29weTIocmVzdWx0WyJmaW5hbF92aWRlbyJdLCBvdXRwdXQgLyAibGVjdHVyZS5tcDQiKQogICAgICAgICAgc2h1dGlsLmNvcHkyKFBhdGgocmVzdWx0WyJ3b3JrX2RpciJdKSAvICJyZXN1bHQuanNvbiIsIG91dHB1dCkKICAgICAgICAgIChvdXRwdXQgLyAicXVpei5qc29uIikud3JpdGVfdGV4dCgKICAgICAgICAgICAgICBqc29uLmR1bXBzKHJlc3VsdFsicXVpel9zZXQiXSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MiksIGVuY29kaW5nPSJ1dGYtOCIKICAgICAgICAgICkKICAgICAgICAgIHNjcmlwdHMgPSBzb3J0ZWQoKFBhdGgocmVzdWx0WyJ3b3JrX2RpciJdKSAvICJzY3JpcHRzIikuZ2xvYigic2xpZGUtKi50eHQiKSkKICAgICAgICAgIGlmIGxlbihzY3JpcHRzKSAhPSAzOgogICAgICAgICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiRXhwZWN0ZWQgdGhyZWUgZ2VuZXJhdGVkIHNjcmlwdHMiKQogICAgICAgICAgZm9yIHNjcmlwdCBpbiBzY3JpcHRzOgogICAgICAgICAgICAgIHNodXRpbC5jb3B5MihzY3JpcHQsIG91dHB1dCkKCiAgICAgICAgICBkZWYgZHVyYXRpb24ocGF0aCk6CiAgICAgICAgICAgICAgcmV0dXJuIGZsb2F0KHN1YnByb2Nlc3MuY2hlY2tfb3V0cHV0KFsKICAgICAgICAgICAgICAgICAgImZmcHJvYmUiLCAiLXYiLCAiZXJyb3IiLCAiLXNob3dfZW50cmllcyIsICJmb3JtYXQ9ZHVyYXRpb24iLAogICAgICAgICAgICAgICAgICAiLW9mIiwgImRlZmF1bHQ9bnc9MTpuaz0xIiwgc3RyKHBhdGgpCiAgICAgICAgICAgICAgXSwgdGV4dD1UcnVlKSkKCiAgICAgICAgICBzdGFydCA9IG1heCgwLCBkdXJhdGlvbihyZXN1bHRbInZpZGVvX3BhdGhzIl1bMF0pIC0gOCkKICAgICAgICAgIHN1YnByb2Nlc3MucnVuKFsKICAgICAgICAgICAgICAiZmZtcGVnIiwgIi12IiwgImVycm9yIiwgIi1zcyIsIHN0cihzdGFydCksICItaSIsIHN0cihvdXRwdXQgLyAibGVjdHVyZS5tcDQiKSwKICAgICAgICAgICAgICAiLXQiLCAiMjUiLCAiLW1hcCIsICIwOnY6MCIsICItbWFwIiwgIjA6YTowIiwgIi1jOnYiLCAibGlieDI2NCIsCiAgICAgICAgICAgICAgIi1jOmEiLCAiYWFjIiwgIi1tb3ZmbGFncyIsICIrZmFzdHN0YXJ0Iiwgc3RyKG91dHB1dCAvICJ0cmFuc2l0aW9uLm1wNCIpCiAgICAgICAgICBdLCBjaGVjaz1UcnVlKQogICAgICAgICAgUFkKICAgICAgLSB1c2VzOiBhY3Rpb25zL3VwbG9hZC1hcnRpZmFjdEB2NAogICAgICAgIHdpdGg6CiAgICAgICAgICBuYW1lOiBsZWN0dXJlLWRlbW8KICAgICAgICAgIHBhdGg6IGRlbW8tYXJ0aWZhY3QvCiAgICAgICAgICBpZi1uby1maWxlcy1mb3VuZDogZXJyb3IK
+name: Generate lecture demo
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg libreoffice-impress poppler-utils fonts-noto-cjk
+      - run: python -m pip install -r requirements.txt
+      - name: Generate and verify the public sample
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          python - <<'PY'
+          import json
+          import shutil
+          import subprocess
+          from pathlib import Path
+          from pipeline import run_pipeline
+
+          result = run_pipeline("docs/demo/health-check.pptx", target_duration_sec=25)
+          if result["total_slides"] != 3 or len(result["video_paths"]) != 3:
+              raise RuntimeError("Expected three rendered slides")
+          if len(result.get("quiz_set", [])) != 6:
+              raise RuntimeError("Expected six validated quiz questions")
+
+          output = Path("demo-artifact")
+          output.mkdir()
+          shutil.copy2(result["final_video"], output / "lecture.mp4")
+          shutil.copy2(Path(result["work_dir"]) / "result.json", output)
+          (output / "quiz.json").write_text(
+              json.dumps(result["quiz_set"], ensure_ascii=False, indent=2), encoding="utf-8"
+          )
+          scripts = sorted((Path(result["work_dir"]) / "scripts").glob("slide-*.txt"))
+          if len(scripts) != 3:
+              raise RuntimeError("Expected three generated scripts")
+          for script in scripts:
+              shutil.copy2(script, output)
+
+          def duration(path):
+              return float(subprocess.check_output([
+                  "ffprobe", "-v", "error", "-show_entries", "format=duration",
+                  "-of", "default=nw=1:nk=1", str(path)
+              ], text=True))
+
+          start = max(0, duration(result["video_paths"][0]) - 8)
+          subprocess.run([
+              "ffmpeg", "-v", "error", "-ss", str(start), "-i", str(output / "lecture.mp4"),
+              "-t", "25", "-map", "0:v:0", "-map", "0:a:0", "-c:v", "libx264",
+              "-c:a", "aac", "-movflags", "+faststart", str(output / "transition.mp4")
+          ], check=True)
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: lecture-demo
+          path: demo-artifact/
+          if-no-files-found: error
