@@ -26,7 +26,11 @@ jobs:
           from pathlib import Path
           from pipeline import run_pipeline
 
-          result = run_pipeline("docs/demo/health-check.pptx", target_duration_sec=25)
+          from base64 import b64decode
+
+          sample = Path("docs/demo/health-check.pptx").read_bytes()
+          Path("health-check.pptx").write_bytes(sample if sample.startswith(b"PK") else b64decode(sample, validate=True))
+          result = run_pipeline("health-check.pptx", target_duration_sec=25)
           if result["total_slides"] != 3 or len(result["video_paths"]) != 3:
               raise RuntimeError("Expected three rendered slides")
           if len(result.get("quiz_set", [])) != 6:
